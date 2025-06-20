@@ -1,0 +1,30 @@
+{
+  "title": "اختبار البرمجة الأساسية - Python",
+  "questions": [
+    {
+      "question": "ما هو الناتج من الكود التالي؟\nprint(type(5))",
+      "options": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'number'>"],
+      "correct": 0
+    },
+    {
+      "question": "أي من التالي يُستخدم لإنشاء قائمة فارغة في Python؟",
+      "options": ["list = {}", "list = []", "list = ()", "list = \"\""],
+      "correct": 1
+    },
+    {
+      "question": "ما هي الطريقة الصحيحة لإضافة عنصر إلى نهاية قائمة؟",
+      "options": ["list.add(item)", "list.insert(item)", "list.append(item)", "list.push(item)"],
+      "correct": 2
+    },
+    {
+      "question": "أي من التالي يُستخدم للتحقق من نوع البيانات؟",
+      "options": ["typeof()", "type()", "datatype()", "check_type()"],
+      "correct": 1
+    },
+    {
+      "question": "ما هو الناتج من: len('Hello')",
+      "options": ["4", "5", "6", "خطأ"],
+      "correct": 1
+    }
+  ]
+}

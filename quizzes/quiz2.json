@@ -1,0 +1,40 @@
+{
+  "title": "اختبار تطوير المواقع - HTML/CSS",
+  "questions": [
+    {
+      "question": "أي من التالي يُستخدم لإنشاء عنوان رئيسي في HTML؟",
+      "options": ["<title>", "<h1>", "<header>", "<head>"],
+      "correct": 1
+    },
+    {
+      "question": "ما هو الغرض من خاصية 'display: flex' في CSS؟",
+      "options": ["إخفاء العنصر", "تحديد لون الخلفية", "إنشاء تخطيط مرن", "تغيير حجم الخط"],
+      "correct": 2
+    },
+    {
+      "question": "أي من التالي يُستخدم لربط ملف CSS خارجي؟",
+      "options": [
+        "<style src='style.css'>",
+        "<css href='style.css'>",
+        "<link rel='stylesheet' href='style.css'>",
+        "<import href='style.css'>"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "ما هو الفرق بين margin و padding؟",
+      "options": [
+        "لا يوجد فرق",
+        "margin للمسافة الخارجية، padding للمسافة الداخلية",
+        "margin للمسافة الداخلية، padding للمسافة الخارجية",
+        "كلاهما نفس الشيء"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "أي من التالي يُستخدم لإنشاء قائمة غير مرتبة؟",
+      "options": ["<ol>", "<ul>", "<list>", "<menu>"],
+      "correct": 1
+    }
+  ]
+}
